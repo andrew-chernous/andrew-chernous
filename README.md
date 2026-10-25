@@ -8,8 +8,6 @@ I build checkout, payment, and subscription flows for headless commerce, and the
 - 💧 **Drupal core contributor** — 10 core patches, deep front-end and decoupled Drupal background
 - 🌍 **Remote** · CET overlap, until 3 PM ET · open to Senior Frontend / Tech Lead roles from Dec 2026
 
-**Stack:** TypeScript · React · Next.js · Vue · Tailwind · Storybook · Vitest · Playwright · Claude Code
-
-Most of my commercial work is under NDA — the public repos here are personal projects and experiments.
+**Stack:** TypeScript · React · Next.js · Vue · Drupal · Tailwind · Storybook · Vitest · Playwright · Claude Code
 
 [LinkedIn](https://www.linkedin.com/in/andrew-chernous) · [Drupal.org](https://www.drupal.org/user/2770209) · andrew.chernous.dev@gmail.com
